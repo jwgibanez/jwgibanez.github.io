@@ -5,10 +5,10 @@ title: Hello there! 👋
 
 <link rel="stylesheet" href="/assets/override.css">
 
-I am a software engineer with focus on mobile app development using
-Java, Kotlin, and Flutter. Interested in blockchain, cryptocurrencies,
-fintech, NFTs, etc. Born in the Philippines, but currently
-based in Singapore.
+I am Jan Ibañez, working as a software engineer with focus on
+mobile app development using Java, Kotlin, and Flutter.
+Interested in blockchain, cryptocurrencies, fintech, NFTs, etc.
+Born in the Philippines, and am currently based in Singapore.
 
 You can reach me via:
 
