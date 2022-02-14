@@ -18,6 +18,6 @@ You can reach me via:
 * [Instagram](https://instagram.com/jwgibanez)
 * [Facebook](https://facebook.com/jwgibanez)
 * [GitHub](https://github.com/jwgibanez)
-* [LinkedIn](https://linkedin.com/jwgibanez)
+* [LinkedIn](https://www.linkedin.com/in/jwgibanez)
 * [Keybase](https://keybase.io/jwgibanez)
 * [ENS](https://app.ens.domains/name/jwgibanez.eth)
